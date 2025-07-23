@@ -6,3 +6,4 @@ A Repo to Store Vulns Discovered for Showing Penetration Testing Skills (For Stu
 4. [Lepton CMS 7.3.0 File Upload Vulnerability A](https://github.com/Kayi626/Vulns/blob/UserAccount/LEPTON_CMS_7.3.0_File_Upload_A.pdf)
 5. [Lepton CMS 7.3.0 File Upload Vulnerability B](https://github.com/Kayi626/Vulns/blob/UserAccount/LEPTON_CMS_7.3.0_File_Upload_B.pdf)
 6. [Lepton CMS 7.3.0 File Upload Vulnerability C](https://github.com/Kayi626/Vulns/blob/UserAccount/LEPTON_CMS_7.3.0_File_Upload_C.pdf)
+7. [Monstra CMS 3.0.4 Arbitrary File Write Vulnerability](https://github.com/Kayi626/Vulns/blob/UserAccount/Monstra%20CMS%203.0.4%20Arbitrary%20File%20Write.pdf)
